@@ -1,8 +1,10 @@
 let a = 100
 let b = 200
-let c = 300
+let c = 30
+
 
 let zmienna = [a, b, c]
+
 console.log(zmienna)
 
 
